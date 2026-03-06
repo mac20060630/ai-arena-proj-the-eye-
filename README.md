@@ -1,4 +1,4 @@
-# 🌍 The eye
+# The eye
 
 > **Real-time geopolitical intelligence dashboard using ai** — live conflict tracking, threat analysis, and global situational awareness in one unified interface.
 
